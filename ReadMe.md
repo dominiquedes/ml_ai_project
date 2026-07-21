@@ -41,6 +41,7 @@
  
 
 ### What the Graphs Mean
+![Model Comparison](model_comparison_mae_linear_nn_pca.png) 
 - Correlation matrix heatmap shows strength and direction of relationships between variables.
 - Pairplot visualizes pairwise relationships and distributions, colored by party size.
 - Model comparison bar chart displays MAE for each model and feature set.
